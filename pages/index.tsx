@@ -5,7 +5,9 @@ import 'tailwindcss/tailwind.css'
 
 const Home: NextPage = () => {
   return (
-    <div className='text-2xl text-red-200'>Hello world</div>
+    <div className='h-screen w-screen flex flex-col'>
+      
+    </div>
   )
 }
 
